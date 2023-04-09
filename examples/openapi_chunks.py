@@ -1,8 +1,7 @@
-import requests
 import argparse
 
+import requests
 from personal_keys import openai_api_key
-
 
 # REF: https://platform.openai.com/docs/api-reference/completions
 

@@ -1,6 +1,5 @@
 import dash
 
-
 app = dash.Dash()
 
 app.layout = dash.html.Div(
